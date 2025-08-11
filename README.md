@@ -75,8 +75,7 @@ vs code open with live server
 - Snehal Mali
 
 ## 🎥 Project Demo
-
-[▶️ Watch the Demo Video](https://github.com/uborkar/Grocery_Web-App/blob/main/git-clone.mp4)
+ demo video https://github.com/utkarshadesai2003/Grocery_Web-App/blob/main/git-clone.mp4
 
 ## 📘 Documentation
 
