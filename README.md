@@ -84,7 +84,7 @@ vs code open with live server
  
 MIT License
 
-Copyright (c) 2025 Umair Borkar
+Copyright (c) 2025 utkarsha desai
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
