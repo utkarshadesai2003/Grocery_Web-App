@@ -79,7 +79,7 @@ vs code open with live server
 
 ## 📘 Documentation
 
-[📄 View Full Project Documentation](https://github.com/uborkar/Grocery_Web-App/blob/main/Grocery_WebApp_Documentation.docx)
+[📄 View Full Project Documentation]https://github.com/utkarshadesai2003/Grocery_Web-App/blob/main/Grocery_WebApp_Documentation.docx
  
 MIT License
 
